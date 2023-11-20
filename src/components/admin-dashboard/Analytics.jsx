@@ -9,7 +9,7 @@ import { HiShare } from "react-icons/hi";
 function Analytics() {
   return (
     <div >
-        <h1 className='font-poppins font-bold text-md  '>Event Analytics</h1>
+        <h1 className='font-poppins font-bold text-md'>Event Analytics</h1>
         <div className='w-[800px] pt-6'>
             <div className='flex flex-wrap justify-start items-center gap-8'>
                   <div className='space-x-10 flex justify-between items-center border-none rounded px-8 py-5 shadow-sm bg-white'>
